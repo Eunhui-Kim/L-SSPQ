@@ -44,5 +44,7 @@ Note that this code is tested only in the environment decribed below. Mismatched
   1) put 'imagenet-resnet-QresIBShift.py, resnet_model2.py, with imagenet_utils.py and dorefa.py of tensorpack file together in the tensorpack example path
   2) run
   python imagenet-resnet-QresIBShift.py --mode QresIBShift --data $Imagenet_Path --batch 256 --depth 50    
-   
+  
+  sspq34 model for cifar100 dataset, 
+  >> run SSQ_cifar100_TS.sh
   

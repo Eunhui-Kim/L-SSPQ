@@ -41,7 +41,7 @@ Note that this code is tested only in the environment decribed below. Mismatched
 
 # Testing
   sspq50 model for imagenet dataset, 
-  1) put 'imagenet-resnet-QresIBShift.py, resnet_model2.py, with imagenet_utils.py and dorefa.py of tensorpack file together in the tensorpack example path
+  1) put 'imagenet-SSQ_S1.py, resnet_model2.py, with imagenet_utils.py and dorefa.py of tensorpack file together in the tensorpack example path
   >> run TS.sh
   
   sspq34 model for cifar100 dataset, 

@@ -16,8 +16,8 @@ The main idea is
  
 # our experimental Results for SSPQ 50 
 L-SSPQ50 model achieves the best performance in the metric of information density.
-![performance](https://github.com/Eunhui-Kim/L-SSPQ/blob/main/Information%20Density%200114.png)
-![performance](https://github.com/Eunhui-Kim/L-SSPQ/blob/main/MB_accuracy%200114.png)
+![](https://github.com/Eunhui-Kim/L-SSPQ/blob/main/Information%20Density%200114.png=250x250)
+![](https://github.com/Eunhui-Kim/L-SSPQ/blob/main/MB_accuracy%200114.png=250x250)
 
  
 # pre-requisite
